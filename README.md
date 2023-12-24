@@ -109,3 +109,5 @@ padding: 3px;
 ## 🏆 Задание 1:
 🔗[Пройдите Задание Flexbox Froggy](https://flexboxfroggy.com/#ru).
 
+## 🏆 Задание 2:
+
