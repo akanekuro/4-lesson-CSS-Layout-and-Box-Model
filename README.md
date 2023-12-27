@@ -110,6 +110,8 @@ padding: 3px;
 🔗[Пройдите Задание Flexbox Froggy](https://flexboxfroggy.com/#ru).
 
 ## 🏆 Задание 2:
-🔗[Ссылка на задание 2.1](https://greatcode.ru/lesson_4.2.html).
+🔗[Ссылка на задание 2](https://greatcode.ru/lesson_4.2.html).
 
+## 🏆 Задание 3:
+🔗[Ссылка на задание 3](https://greatcode.ru/portfolio.html).
 
